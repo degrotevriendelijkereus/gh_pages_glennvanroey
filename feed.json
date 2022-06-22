@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Glenn Van Roey",
+    "description": "",
+    "home_page_url": "https://degrotevriendelijkereus.github.io/gh_pages_glennvanroey",
+    "feed_url": "https://degrotevriendelijkereus.github.io/gh_pages_glennvanroey/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Glenn"
+    },
+    "items": [
+        {
+            "id": "https://degrotevriendelijkereus.github.io/gh_pages_glennvanroey/glenn-van-roey.html",
+            "url": "https://degrotevriendelijkereus.github.io/gh_pages_glennvanroey/glenn-van-roey.html",
+            "title": "Glenn Van Roey ",
+            "author": {
+                "name": "Glenn"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-22T14:39:16+02:00",
+            "date_modified": "2022-06-22T14:39:16+02:00"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Glenn Van Roey</title>
+    <link href="https://degrotevriendelijkereus.github.io/gh_pages_glennvanroey/feed.xml" rel="self" />
+    <link href="https://degrotevriendelijkereus.github.io/gh_pages_glennvanroey" />
+    <updated>2022-06-22T14:39:16+02:00</updated>
+    <author>
+        <name>Glenn</name>
+    </author>
+    <id>https://degrotevriendelijkereus.github.io/gh_pages_glennvanroey</id>
+
+    <entry>
+        <title>Glenn Van Roey </title>
+        <author>
+            <name>Glenn</name>
+        </author>
+        <link href="https://degrotevriendelijkereus.github.io/gh_pages_glennvanroey/glenn-van-roey.html"/>
+        <id>https://degrotevriendelijkereus.github.io/gh_pages_glennvanroey/glenn-van-roey.html</id>
+
+        <updated>2022-06-22T14:39:16+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

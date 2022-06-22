@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://degrotevriendelijkereus.github.io/gh_pages_glennvanroey/sitemap.xml
